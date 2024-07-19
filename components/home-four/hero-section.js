@@ -10,7 +10,7 @@ export default function HeroSection() {
 			<div className="container">
 				<div className="fugu--hero-content fugu--hero-content2">
 					<h1 className="wow fadeInUpX" data-wow-delay="0s">
-					Life Happens, Insure've Got Your Back
+					Secure Your Legacy with Confidence.
 					</h1>
 					<p className="wow fadeInUpX" data-wow-delay=".10s">
 					i (insure) is a revolutionary blockchain-based life insurance platform designed to provide a more transparent, efficient, and accessible insurance experience for everyone.

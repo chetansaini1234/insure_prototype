@@ -6,7 +6,7 @@ import VisionSection from "../components/about-dark/vision-section";
 import FaqAccordionThree from "../components/common/faq/faq-accordion-three";
 import VideoSectionFive from "../components/common/video/video-section-five";
 import TextSliderTwo from "./../components/common/sliders/text/text-slider-two";
-import Team from "./../components/home-three/Team";
+import Team from "./../components/home-three/Team.js";
 
 export default function AboutDark() {
 	return (

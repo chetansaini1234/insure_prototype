@@ -12,7 +12,7 @@ export default function AboutUs() {
 	return (
 		<>
 			<Head>
-				<title>fugu - about us</title>
+				<title>Insure- about us</title>
 			</Head>
 			<Breadcrumb />
 			<AboutSection />

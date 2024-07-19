@@ -38,10 +38,10 @@ export default function HeaderErrorSix() {
 							</div>
 
 							<Navbar>
-								<NavItem navItemText="Demo" menuItems={DemoDropdownMenus} />
-								<NavItem navItemText="Pages" menuItems={PagesDropdownMenus} />
-								<NavItem navItemText="Elements" menuItems={ElementsMegaMenu} megaMenu />
-								<NavItem navItemText="Blog" menuItems={BlogDropdownMenus} />
+								<NavItem navItemText="home" menuItems={DemoDropdownMenus} />
+								<NavItem navItemText="Airdrop" menuItems={PagesDropdownMenus} />
+								<NavItem navItemText="Roadmap" menuItems={ElementsMegaMenu} megaMenu />
+								{/* <NavItem navItemText="Blog" menuItems={BlogDropdownMenus} /> */}
 								<NavItem navItemText="Contact Us" menuItems={ContactDropdownMenus} />
 							</Navbar>
 						</nav>

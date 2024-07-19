@@ -24,7 +24,7 @@ export default function ContactFormSection() {
 											<span>
 												<img src="/images/svg2/phone2.svg" alt="" />
 											</span>
-											+008-245-5667
+											+0000000
 										</Link>
 									</li>
 									<li>
@@ -32,7 +32,7 @@ export default function ContactFormSection() {
 											<span>
 												<img src="/images/svg2/mail2.svg" alt="" />
 											</span>
-											mail@example.com
+											insure_mail@example.com
 										</Link>
 									</li>
 									<li>
@@ -40,7 +40,7 @@ export default function ContactFormSection() {
 											<span>
 												<img src="/images/svg2/map2.svg" alt="" />
 											</span>
-											389 Ranchview, California 62639
+											577 gohana, India
 										</Link>
 									</li>
 								</ul>

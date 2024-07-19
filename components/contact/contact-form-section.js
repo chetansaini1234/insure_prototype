@@ -29,11 +29,11 @@ export default function ContactFormSection() {
 												<img src="/images/social/call.svg" alt="" />
 											</div>
 											<h5>Call us</h5>
-											<p>+088-234-6534-563</p>
+											<p>0000000</p>
 										</Link>
 									</li>
 									<li>
-										<Link href="mailto:name@email.com">
+										<Link href="insure_test@gmail.com">
 											<div className="fugu-contact-info-icon">
 												<img src="/images/social/email.svg" alt="" />
 											</div>

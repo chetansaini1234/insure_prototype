@@ -10,6 +10,11 @@
 		"export": "next export"
 	},
 	"dependencies": {
+		"@dfinity/agent": "^2.0.0",
+		"@dfinity/auth-client": "^2.0.0",
+		"@dfinity/candid": "^2.0.0",
+		"@dfinity/identity": "^2.0.0",
+		"@dfinity/principal": "^2.0.0",
 		"@fortawesome/fontawesome-svg-core": "^6.2.0",
 		"@fortawesome/free-regular-svg-icons": "^6.2.0",
 		"@fortawesome/free-solid-svg-icons": "^6.2.0",
